@@ -1,7 +1,7 @@
 ### programandoofuturo
 Tem um erro no nome do repositório! hahahah
 
-Pessoal para esse texto estou utilizando como base esse ["Exemplo que fiz"](github.com/henriquegnu/jovemprogramador) como instrução de Markdown ou .md, muito utilizado no GitHub, esse tipo de arquivo é conhecido como MarkDown e é categorizado não como programação, mas como uma linguagem de marcação.
+Pessoal para esse texto estou utilizando como base esse ["Exemplo"](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) como instrução de Markdown ou .md, muito utilizado no GitHub, esse tipo de arquivo é conhecido como MarkDown e é categorizado não como programação, mas como uma linguagem de marcação.
 
 **Utilizando esse repositório como forma de documentar o curso, e registrar possíveis projetos.**
 
