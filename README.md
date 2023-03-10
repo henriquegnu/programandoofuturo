@@ -13,6 +13,9 @@ Nessa primeira aula, foi utilizado o sistema de ensino Moodle do IFSC. Consegui 
 
 Então, foi ensinado:
 
+Os arquivos HTML e CSS foram perdidos em meio a problemas técnicos, estamos procurando um meio de recuperalos.
+Um deles é conversando com o professor do IFSC, Fabrício.
+
 * HTML, código ["AQUI"](https://github.com/henriquegnu/progamandoofuturo/blob/main/primeiraaula.html)
 * CSS, código ["AQUI"](https://github.com/henriquegnu/progamandoofuturo/blob/main/primeiraaula.css)
 
