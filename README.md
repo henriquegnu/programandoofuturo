@@ -32,9 +32,9 @@ O código ensinado não foi só esse, o professor passou algumas outras coisas, 
 No segundo dia de ensino após a apresentação do curso, foi ensinado lógica no seu estado puro, essa aula foi orquestrada pela professora Simone, aqui do IFSC de Tubarão.
 Aprendemos em linguagem chamada **VisualG**, muito popular no ensino para jovens de forma que consigamos entender da melhor forma a lógica que são apresentados muitos programas.
 
-Esse é o link do Wikipedia da linguagem: ["AQUI"](https://pt.wikipedia.org/wiki/Visualg)
-Também vou deixar disponível a documentação da UFSC, existem várias pela internet, mas essa foi a primeira e mais marcante com certeza: ["AQUI"](https://pt.wikipedia.org/wiki/Visualg)
-Link dos arquivos da Aula da Simone: ["AQUI"](https://github.com/henriquegnu/programandoofuturo/tree/arquivossimone)
+* Esse é o link do Wikipedia da linguagem: ["AQUI"](https://pt.wikipedia.org/wiki/Visualg)
+* Também vou deixar disponível a documentação da UFSC, existem várias pela internet, mas essa foi a primeira e mais marcante com certeza: ["AQUI"](https://pt.wikipedia.org/wiki/Visualg)
+* Link dos arquivos da Aula da Simone: ["AQUI"](https://github.com/henriquegnu/programandoofuturo/tree/arquivossimone)
 
 Foi uma aula ótima e imagino que todos entendemos muito tudo que a professora Simone estava tentando passar para nós.
 
